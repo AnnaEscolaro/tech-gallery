@@ -19,3 +19,8 @@
   text-decoration: none;
   color: whitesmoke;
 }
+
+.text-section {
+  display: flex;
+  justify-content: center;
+}
