@@ -23,4 +23,35 @@
 .text-section {
   display: flex;
   justify-content: center;
+  background-color: green;
+  color: whitesmoke;
+  padding: 1%;
+}
+
+.gallery-container {
+  display: flex;
+  justify-content: center;
+  background-color: lightgrey;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 500px;
+  background-color: whitesmoke;
+  padding: 1%;
+}
+
+h4 {
+  text-align: center;
+}
+
+.footer-container {
+  text-decoration: none;
+  color: whitesmoke;
+  background-color: rgba(0, 0, 0, 0.872);
+  display: flex;
+  justify-content: space-around;
+  padding: 3%;
 }
